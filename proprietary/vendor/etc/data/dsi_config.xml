@@ -5,7 +5,6 @@
      Confidential and Proprietary - Qualcomm Technologies, Inc.
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <list name="dsi_config">
 
    <!-- Configuration for legacy MSM targets -->
